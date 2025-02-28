@@ -1,0 +1,1 @@
+find the string in ` your_string ` between two special characters " [ " and " ] "

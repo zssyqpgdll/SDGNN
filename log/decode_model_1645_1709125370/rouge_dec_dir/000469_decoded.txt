@@ -1,0 +1,1 @@
+replace all characters of a string ' [UNK] ' and ' long.file.name.jpg ' in string ' long.file.name.jpg '

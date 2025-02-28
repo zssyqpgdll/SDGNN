@@ -1,0 +1,1 @@
+print a list of numbers ` l ` at the 3 elements of list ` l `

@@ -1,0 +1,1 @@
+get the first value in a numpy array ' a ' where the value is ' 1 ' .

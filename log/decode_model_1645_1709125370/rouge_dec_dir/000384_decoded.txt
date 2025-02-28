@@ -1,0 +1,1 @@
+get the index of the time of string ' google.com ' in the string

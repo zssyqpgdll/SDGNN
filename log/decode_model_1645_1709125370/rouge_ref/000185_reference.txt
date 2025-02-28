@@ -1,0 +1,1 @@
+split a string ` Docs/src/Scripts/temp ` by ` / ` keeping ` / ` in the result

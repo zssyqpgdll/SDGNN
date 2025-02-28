@@ -1,0 +1,1 @@
+disable all substrings in a string ' s ' in regex

@@ -1,0 +1,1 @@
+get all values in array ` a `

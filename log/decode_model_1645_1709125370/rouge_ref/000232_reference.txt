@@ -1,0 +1,1 @@
+how do i sum the first value in each tuple in a list of tuples in python ?

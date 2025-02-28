@@ -1,0 +1,1 @@
+find the index of a list with the first element equal to ' 332 ' within the list of lists ` thelist `

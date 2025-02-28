@@ -1,0 +1,1 @@
+scatter a plot with x , y position of ` np.random.randn(100) ` and face color equal to none

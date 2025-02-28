@@ -1,0 +1,1 @@
+display current time object with pattern ' %H:%M:%S.%f ' in format

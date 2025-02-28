@@ -1,0 +1,1 @@
+get a list of tuples ` b ` into a list of tuples ` ['a', 'b'] `

@@ -1,0 +1,1 @@
+print elements of list ` list ` seperated by tabs ` 	 `

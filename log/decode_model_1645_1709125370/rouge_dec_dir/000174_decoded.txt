@@ -1,0 +1,1 @@
+make a list of tuples ` word ` containing a flat list of lists ` word `

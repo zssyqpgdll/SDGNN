@@ -1,0 +1,1 @@
+execute script ' script.ps1 ' using ' powershell.exe ' shell

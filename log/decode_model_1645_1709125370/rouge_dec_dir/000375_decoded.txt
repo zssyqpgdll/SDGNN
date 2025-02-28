@@ -1,0 +1,1 @@
+find all occurrences of a expression ' /folder name ' in regex

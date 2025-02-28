@@ -1,0 +1,1 @@
+write content of dataframe ` df ` into text file ' c:\data\pandas.txt '

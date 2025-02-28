@@ -1,0 +1,1 @@
+remove duplicate words from a string ` text ` using regex

@@ -1,0 +1,1 @@
+extract all the values with keys ' x ' and ' y ' from a list of dictionaries ` d ` to list of tuples

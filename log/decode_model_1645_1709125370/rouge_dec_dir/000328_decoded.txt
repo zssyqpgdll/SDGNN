@@ -1,0 +1,1 @@
+how to plot for dataframe ` df ` with column ' barh '

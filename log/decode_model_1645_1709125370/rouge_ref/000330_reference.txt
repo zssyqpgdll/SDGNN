@@ -1,0 +1,1 @@
+finding the index of elements containing substring ' how ' and ' what ' in a list of strings ' myList ' .

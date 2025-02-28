@@ -1,0 +1,1 @@
+parse tab-delimited csv file ' text.txt ' into a list

@@ -1,0 +1,1 @@
+convert tuple of tuples ` (('aa',), ('bb',), ('cc',)) ` to list in one line

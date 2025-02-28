@@ -1,0 +1,1 @@
+write bytes ` bytes_ ` to a file ` filename ` in python 3

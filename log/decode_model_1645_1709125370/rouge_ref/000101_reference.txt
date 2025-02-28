@@ -1,0 +1,1 @@
+subscript text ' H20 ' with ' 2 ' as subscripted in matplotlib labels for arrays ' x ' and ' y ' .

@@ -1,0 +1,1 @@
+match urls whose domain does n't start with ` t ` from string ` document ` using regex

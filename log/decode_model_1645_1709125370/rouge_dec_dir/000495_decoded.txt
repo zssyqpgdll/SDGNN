@@ -1,0 +1,1 @@
+find all occurrences of a string ' http://[^t][^s"]+\.html ' in string ` document `

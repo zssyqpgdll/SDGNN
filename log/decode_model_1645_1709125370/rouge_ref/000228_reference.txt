@@ -1,0 +1,1 @@
+encode a string ` data to be encoded ` to ` ascii ` encoding

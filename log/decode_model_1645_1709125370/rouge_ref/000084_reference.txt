@@ -1,0 +1,1 @@
+format string " ({} goals, ${}) " with variables ` goals ` and ` penalties `

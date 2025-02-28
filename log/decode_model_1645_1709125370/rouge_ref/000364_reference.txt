@@ -1,0 +1,1 @@
+call a subprocess with arguments ` c:\Program Files\VMware\VMware Server\vmware-cmd.bat ` that may contain spaces

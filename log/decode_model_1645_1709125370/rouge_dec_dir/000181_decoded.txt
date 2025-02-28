@@ -1,0 +1,1 @@
+get the path of directory ' mydir/myfile.txt ' in directory

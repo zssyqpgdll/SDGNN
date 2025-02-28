@@ -1,0 +1,1 @@
+concatenate array of strings ` ['A', 'B', 'C', 'D'] ` into a string

@@ -1,0 +1,1 @@
+get the common of string ' ({:d} goals, ${:d}) ' in function ' ({:d} ${:d}) '

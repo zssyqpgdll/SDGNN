@@ -1,0 +1,1 @@
+get a list of integers ` lst ` from a file ` filename.txt `

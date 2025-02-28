@@ -1,0 +1,1 @@
+format the variables ` self.goals ` and ` self.penalties ` using string formatting

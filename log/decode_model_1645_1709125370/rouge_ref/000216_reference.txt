@@ -1,0 +1,1 @@
+get all matches with regex pattern ` \d+[xX] ` in list of string ` teststr `

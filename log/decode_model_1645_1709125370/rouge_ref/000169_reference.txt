@@ -1,0 +1,1 @@
+create a list containing flattened list ` [['A', 'B', 'C'], ['D', 'E', 'F'], ['G', 'H', 'I']] `

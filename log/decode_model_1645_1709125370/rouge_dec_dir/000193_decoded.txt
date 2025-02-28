@@ -1,0 +1,1 @@
+convert a string ` user ` into a list of integer

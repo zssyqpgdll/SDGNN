@@ -1,0 +1,1 @@
+get rows of dataframe ` df ` that match regex ' (Hel|Just) '

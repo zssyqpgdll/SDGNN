@@ -1,0 +1,1 @@
+convert a list into a generator object

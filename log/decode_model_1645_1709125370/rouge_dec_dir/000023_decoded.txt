@@ -1,0 +1,1 @@
+append the directory ' /path/to/whatever ' with directory ' /path/to/whatever '

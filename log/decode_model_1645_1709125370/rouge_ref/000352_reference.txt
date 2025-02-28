@@ -1,0 +1,1 @@
+get a list from a list ` lst ` with values mapped into a dictionary ` dct `

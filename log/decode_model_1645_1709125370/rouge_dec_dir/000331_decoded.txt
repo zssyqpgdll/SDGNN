@@ -1,0 +1,1 @@
+check if list ` obj ` is a string

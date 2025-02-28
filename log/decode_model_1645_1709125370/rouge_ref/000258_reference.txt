@@ -1,0 +1,1 @@
+resized image ` image ` to width , height of ` (x, y) ` with filter of ` ANTIALIAS `

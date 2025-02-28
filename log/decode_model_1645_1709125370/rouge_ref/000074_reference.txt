@@ -1,0 +1,1 @@
+print a list ` l ` and move first 3 elements to the end of the list

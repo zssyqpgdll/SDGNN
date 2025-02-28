@@ -1,0 +1,1 @@
+remove white spaces from a string ` mystring `

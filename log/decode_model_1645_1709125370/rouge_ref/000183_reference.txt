@@ -1,0 +1,1 @@
+get filename without extension from file ` filename `

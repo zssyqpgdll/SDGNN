@@ -1,0 +1,1 @@
+find all digits in a string ' 5_1.txt ' of a string ` teststr `

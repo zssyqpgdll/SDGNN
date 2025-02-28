@@ -1,0 +1,10 @@
+{
+    "expr": 1,
+    "var": 2,
+    "var_type": 3,
+    "pred": 4,
+    "ent": 5,
+    "subname": 6,
+    "cmp_op": 7,
+    "num": 8
+}

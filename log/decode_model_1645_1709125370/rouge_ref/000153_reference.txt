@@ -1,0 +1,1 @@
+do a scatter plot with empty circles

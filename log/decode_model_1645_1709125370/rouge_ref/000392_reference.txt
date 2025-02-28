@@ -1,0 +1,1 @@
+set font ` Arial ` to display non-ascii characters in matplotlib

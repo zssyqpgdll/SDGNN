@@ -1,0 +1,1 @@
+convert a list of dictionaries ` list_of_lists ` into a list of strings

@@ -1,0 +1,1 @@
+reverse the order of words , delimited by ` . ` , in string ` s `

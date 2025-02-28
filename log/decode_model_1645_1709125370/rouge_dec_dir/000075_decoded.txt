@@ -1,0 +1,2 @@
+check the contents of a directory using directory ' .
+'

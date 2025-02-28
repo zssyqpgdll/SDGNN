@@ -1,0 +1,1 @@
+remove uppercased from string ' ^[A-Z0-9]*(?![a-z]) ' in string ` string `

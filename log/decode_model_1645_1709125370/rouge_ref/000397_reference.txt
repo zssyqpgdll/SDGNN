@@ -1,0 +1,1 @@
+add an item with key ' third_key ' and value 1 to an dictionary ` my_dict `

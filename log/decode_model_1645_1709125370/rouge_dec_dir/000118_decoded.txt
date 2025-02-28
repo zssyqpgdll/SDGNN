@@ -1,0 +1,1 @@
+get a dictionary from dictionary ` cursor ` from dictionary ` cursor `

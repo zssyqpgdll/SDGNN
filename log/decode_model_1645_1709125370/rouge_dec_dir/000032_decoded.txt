@@ -1,0 +1,1 @@
+delete value from list ` d ` from a list of dictionaries ` d `

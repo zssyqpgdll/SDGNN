@@ -1,0 +1,1 @@
+combine elements of each list in list ` L ` into digits of a single integer

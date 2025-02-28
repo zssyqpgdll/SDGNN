@@ -1,0 +1,1 @@
+execute bash external command ' /usr/bin/Rscript --vanilla /pathto/Myr Script.r ' in subprocess

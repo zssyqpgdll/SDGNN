@@ -1,0 +1,1 @@
+get a new list ` list2 ` by removing empty list from a list of lists ` list1 `

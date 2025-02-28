@@ -1,0 +1,1 @@
+get the minimum value of concatenate ` a ` and ` axis `

@@ -1,0 +1,1 @@
+multiple each value by ` 2 ` for all keys in a dictionary ` my_dict `

@@ -1,0 +1,1 @@
+convert elements of each tuple in list ` l ` into a string separated by character ` @ `

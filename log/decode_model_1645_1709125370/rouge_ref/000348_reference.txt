@@ -1,0 +1,1 @@
+split string ` input ` based on occurrences of regex pattern ' [ ](?=[A-Z]+\b) '

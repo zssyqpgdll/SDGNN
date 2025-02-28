@@ -1,0 +1,1 @@
+send a signal ` signal.SIGUSR1 ` to the current process

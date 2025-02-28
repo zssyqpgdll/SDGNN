@@ -1,0 +1,1 @@
+get the highest element in absolute value in a numpy matrix ` x `

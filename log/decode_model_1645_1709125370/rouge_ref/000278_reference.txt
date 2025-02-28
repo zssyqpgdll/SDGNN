@@ -1,0 +1,1 @@
+get the item at index 0 from the tuple that has maximum value at index 1 in list ` lis `

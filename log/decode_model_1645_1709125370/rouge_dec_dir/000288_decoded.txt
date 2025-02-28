@@ -1,0 +1,1 @@
+convert a list of strings ` functools ` into a list of strings

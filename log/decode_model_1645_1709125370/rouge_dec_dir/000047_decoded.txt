@@ -1,0 +1,1 @@
+convert list ` myList ` into a list of strings

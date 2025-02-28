@@ -1,0 +1,1 @@
+prepend the line ' #test firstline[LINE] ' to the contents of file ' infile ' and save as the file ' outfile '

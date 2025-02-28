@@ -1,0 +1,1 @@
+match regex of a string ' [0-9]+(?:\.[0-9]+){3} ' to a string ` s `

@@ -1,0 +1,1 @@
+set a colorbar to colorbar in matplotlib ` plt ` with matplotlib ` ax3 `

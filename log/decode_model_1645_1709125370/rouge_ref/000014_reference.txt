@@ -1,0 +1,1 @@
+concatenate elements of list ` b ` by a colon " : "

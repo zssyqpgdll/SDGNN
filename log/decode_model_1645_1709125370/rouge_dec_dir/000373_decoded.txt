@@ -1,0 +1,1 @@
+decode a backslash-escaped string ' \a ' into a string

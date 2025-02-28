@@ -1,0 +1,1 @@
+replace all occurrences of a string ` [LINE] ` by string ` <br> ` in a pandas data frame ` df `

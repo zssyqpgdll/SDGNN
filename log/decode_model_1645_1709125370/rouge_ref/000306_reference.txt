@@ -1,0 +1,1 @@
+append each line in file ` myfile ` into a list

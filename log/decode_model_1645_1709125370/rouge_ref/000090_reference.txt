@@ -1,0 +1,1 @@
+removing an element from a list based on a predicate ' X ' or ' N '

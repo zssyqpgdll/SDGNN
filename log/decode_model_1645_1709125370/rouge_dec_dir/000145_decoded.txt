@@ -1,0 +1,1 @@
+convert dataframe ` df ` to index of column ' Bool ' in dataframe ` df `

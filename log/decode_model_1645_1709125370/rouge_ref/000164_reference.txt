@@ -1,0 +1,1 @@
+find last occurrence of character ' } ' in string " abcd}def} "

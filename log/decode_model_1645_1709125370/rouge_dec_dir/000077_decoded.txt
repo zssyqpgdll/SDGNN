@@ -1,0 +1,1 @@
+convert a random 12-digit number of numbers ` 10000 ` into a list of integers

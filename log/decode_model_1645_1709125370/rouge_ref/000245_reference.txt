@@ -1,0 +1,1 @@
+separate words delimited by one or more spaces into a list

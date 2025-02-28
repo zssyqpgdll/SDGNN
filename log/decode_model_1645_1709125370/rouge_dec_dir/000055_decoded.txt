@@ -1,0 +1,1 @@
+get the number of all values in a list of python

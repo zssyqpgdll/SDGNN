@@ -1,0 +1,1 @@
+check if path ` my_path ` is an absolute path

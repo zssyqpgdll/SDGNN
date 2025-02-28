@@ -1,0 +1,1 @@
+remove last comma character ' , ' in string ` s `

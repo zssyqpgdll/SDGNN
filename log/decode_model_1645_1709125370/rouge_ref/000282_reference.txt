@@ -1,0 +1,1 @@
+sort lis ` list5 ` in ascending order based on the degrees value of its elements

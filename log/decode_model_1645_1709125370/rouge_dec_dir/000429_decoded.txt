@@ -1,0 +1,1 @@
+how to plot font legend columns in matplotlib plot ` df `

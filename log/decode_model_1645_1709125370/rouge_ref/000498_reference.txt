@@ -1,0 +1,1 @@
+sum elements at the same index in list ` data `

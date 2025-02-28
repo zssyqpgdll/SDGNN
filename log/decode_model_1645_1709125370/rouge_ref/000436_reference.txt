@@ -1,0 +1,1 @@
+print new line character as ` [LINE] ` in a string ` foo[LINE]bar `

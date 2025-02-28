@@ -1,0 +1,1 @@
+set pythonpath in python script .

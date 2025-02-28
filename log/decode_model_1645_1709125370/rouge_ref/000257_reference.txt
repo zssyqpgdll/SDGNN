@@ -1,0 +1,1 @@
+encode a latin character in string ` SopetÃ³n ` properly

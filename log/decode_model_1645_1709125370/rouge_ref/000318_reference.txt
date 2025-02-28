@@ -1,0 +1,1 @@
+get whatever is between parentheses as a single match , and any char outside as an individual match in string ' (zyx)bc '

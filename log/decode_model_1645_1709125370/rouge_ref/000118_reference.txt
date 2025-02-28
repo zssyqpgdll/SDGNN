@@ -1,0 +1,1 @@
+get a dictionary ` records ` of key-value pairs in pymongo cursor ` cursor `

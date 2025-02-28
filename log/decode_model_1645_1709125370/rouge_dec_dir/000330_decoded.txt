@@ -1,0 +1,1 @@
+convert a list of tuples ' myList ' to a list of tuples ` j `

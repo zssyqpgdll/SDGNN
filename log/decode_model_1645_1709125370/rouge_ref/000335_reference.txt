@@ -1,0 +1,1 @@
+check if ` obj_to_test ` is a string

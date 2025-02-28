@@ -1,0 +1,1 @@
+plot dataframe ` df ` without a legend

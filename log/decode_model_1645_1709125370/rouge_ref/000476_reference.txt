@@ -1,0 +1,1 @@
+write ` newFileBytes ` to a binary file ` newFile `

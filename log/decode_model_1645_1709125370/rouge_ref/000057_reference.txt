@@ -1,0 +1,1 @@
+combine list of dictionaries ` dicts ` with the same keys in each list to a single dictionary

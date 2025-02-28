@@ -1,0 +1,1 @@
+check if column ' ball ' is the value of ' ball ' in dataframe ` df `

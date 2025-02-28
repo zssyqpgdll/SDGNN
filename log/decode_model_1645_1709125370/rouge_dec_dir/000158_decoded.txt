@@ -1,0 +1,1 @@
+reset index of dataframe ` df ` to columns ' tick ' , ' obs ' , ' obs ' , ' obs ' .

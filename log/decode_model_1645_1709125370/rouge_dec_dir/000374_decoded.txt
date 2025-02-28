@@ -1,0 +1,1 @@
+replace character ' a ' in string ' obama ' in string ' obama ' and ' %temp% '

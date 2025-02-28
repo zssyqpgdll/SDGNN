@@ -1,0 +1,1 @@
+load float value of message ' db '

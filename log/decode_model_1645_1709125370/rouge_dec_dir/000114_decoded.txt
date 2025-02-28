@@ -1,0 +1,1 @@
+replace all characters in string ' [UNK] ' and ' H1 ' in string ` text `

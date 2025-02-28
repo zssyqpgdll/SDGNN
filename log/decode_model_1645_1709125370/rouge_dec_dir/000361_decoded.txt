@@ -1,0 +1,1 @@
+merge rows in a pandas dataframe ` df ` at the first row in dataframe ` df `

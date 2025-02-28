@@ -1,0 +1,1 @@
+remove all spaces in string ` text ` with string ' text '

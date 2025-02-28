@@ -1,0 +1,1 @@
+average each two columns of array ` data `

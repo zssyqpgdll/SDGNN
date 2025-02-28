@@ -1,0 +1,1 @@
+calling an external command ' gnome-terminal ' simultaneously

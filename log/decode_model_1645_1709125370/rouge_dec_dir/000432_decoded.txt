@@ -1,0 +1,1 @@
+get a global variable ' 192.168.1.1 ' and ' 192.168.255.255 ' in a string ` generator `

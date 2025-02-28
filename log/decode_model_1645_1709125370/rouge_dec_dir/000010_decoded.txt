@@ -1,0 +1,1 @@
+send data ' HTTP/1.0 200 OK[LINE] ' to socket ` client `

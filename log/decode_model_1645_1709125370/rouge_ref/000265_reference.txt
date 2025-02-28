@@ -1,0 +1,1 @@
+beautifulsoup find all ' span ' elements in html string ` soup ` with class of ' starGryB sp '

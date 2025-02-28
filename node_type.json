@@ -1,0 +1,23 @@
+{
+    "mod": 1,
+    "stmt": 2,
+    "expr": 3,
+    "identifier": 4,
+    "keyword": 5,
+    "comprehension": 6,
+    "subname": 7,
+    "string": 8,
+    "slice": 9,
+    "object": 10,
+    "cmpop": 11,
+    "unaryop": 12,
+    "arguments": 13,
+    "arg": 14,
+    "operator": 15,
+    "singleton": 16,
+    "boolop": 17,
+    "withitem": 18,
+    "alias": 19,
+    "int": 20,
+    "excepthandler": 21
+}

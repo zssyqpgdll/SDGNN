@@ -1,0 +1,1 @@
+replace a separate word ' H3 ' by ' H1 ' in a string ' text '

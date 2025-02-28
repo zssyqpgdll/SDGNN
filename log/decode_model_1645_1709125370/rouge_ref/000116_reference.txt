@@ -1,0 +1,1 @@
+get digits only from a string ` aas30dsa20 ` using lambda function

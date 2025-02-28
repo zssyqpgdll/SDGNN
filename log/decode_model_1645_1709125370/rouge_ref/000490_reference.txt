@@ -1,0 +1,1 @@
+get the index of an integer ` 1 ` from a list ` lst ` if the list also contains boolean items

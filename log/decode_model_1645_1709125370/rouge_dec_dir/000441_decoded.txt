@@ -1,0 +1,1 @@
+reverse a list of strings ` l ` in descending order

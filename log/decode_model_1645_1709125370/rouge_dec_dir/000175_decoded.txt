@@ -1,0 +1,1 @@
+create a string that characters of the character of strings ` my_sequence `

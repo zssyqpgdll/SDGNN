@@ -1,0 +1,1 @@
+zip two 2-d arrays ` a ` and ` b `

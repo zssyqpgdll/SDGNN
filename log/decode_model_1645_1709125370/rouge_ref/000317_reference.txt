@@ -1,0 +1,1 @@
+use a regex to get all text in a string ` example_str ` that is not surrounded by square brackets

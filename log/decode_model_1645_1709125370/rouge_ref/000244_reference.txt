@@ -1,0 +1,1 @@
+selecting rows in numpy ndarray ' a ' , where the value in the first column is 0 and value in the second column is 1

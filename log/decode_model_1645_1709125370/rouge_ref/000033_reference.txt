@@ -1,0 +1,1 @@
+create new dataframe object by merging columns " key " of dataframes ` split_df ` and ` csv_df ` and rename the columns from dataframes ` split_df ` and ` csv_df ` with suffix ` _left ` and ` _right ` respectively

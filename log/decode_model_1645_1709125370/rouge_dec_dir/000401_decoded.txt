@@ -1,0 +1,1 @@
+decode a hex string ' \x ' in string ' \x BE\x80\x80 ' with ' hex '

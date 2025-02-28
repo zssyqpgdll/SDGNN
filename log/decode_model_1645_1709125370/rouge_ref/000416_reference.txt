@@ -1,0 +1,1 @@
+delete all occurrences of character ' i ' in string ' it is icy '

@@ -1,0 +1,1 @@
+use ` %s ` operator to print variable values ` str1 ` inside a string

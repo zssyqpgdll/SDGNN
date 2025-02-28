@@ -1,0 +1,1 @@
+find all occurrences of a string ' src="js/([^"]*\bjquery\b[^"]*)" ' in a string ` data `

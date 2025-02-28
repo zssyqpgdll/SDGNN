@@ -1,0 +1,1 @@
+convert a string ` d ` to utf-8 code

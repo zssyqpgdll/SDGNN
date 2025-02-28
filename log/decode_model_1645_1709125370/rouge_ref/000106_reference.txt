@@ -1,0 +1,1 @@
+get the content of child tag with ` href ` attribute whose parent has css ` someclass `

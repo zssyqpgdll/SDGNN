@@ -1,0 +1,1 @@
+print the index of ` element ` from a list ` testlist `

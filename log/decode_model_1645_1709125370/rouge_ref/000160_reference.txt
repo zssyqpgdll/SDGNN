@@ -1,0 +1,1 @@
+join each element in array ` a ` with element at the same index in array ` b ` as a tuple

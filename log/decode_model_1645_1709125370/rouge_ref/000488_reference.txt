@@ -1,0 +1,1 @@
+get a list of all keys in cassandra database ` cf ` with pycassa

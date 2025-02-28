@@ -1,0 +1,1 @@
+create a list containing the indexes of rows where the value of column ' BoolCol ' in dataframe ` df ` are equal to true

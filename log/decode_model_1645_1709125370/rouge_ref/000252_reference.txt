@@ -1,0 +1,1 @@
+check if any key in the dictionary ` dict1 ` starts with the string ` EMP$$ `

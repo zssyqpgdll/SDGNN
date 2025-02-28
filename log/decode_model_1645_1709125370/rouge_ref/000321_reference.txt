@@ -1,0 +1,1 @@
+formate each string cin list ` elements ` into pattern ' %{0}% '

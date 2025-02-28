@@ -1,0 +1,1 @@
+call multiple bash function ‘ vasp ’ and ‘ tee tee_output ’ using ‘ | ’

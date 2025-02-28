@@ -1,0 +1,1 @@
+sum the corresponding decimal values for binary values of each boolean element in list ` x `

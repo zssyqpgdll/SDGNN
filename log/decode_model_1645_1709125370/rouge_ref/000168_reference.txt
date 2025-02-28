@@ -1,0 +1,1 @@
+create a dictionary by adding each two adjacent elements in tuple ` x ` as key/value pair to it

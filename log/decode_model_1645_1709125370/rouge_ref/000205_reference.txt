@@ -1,0 +1,1 @@
+split string ` s ` by words that ends with ' d '

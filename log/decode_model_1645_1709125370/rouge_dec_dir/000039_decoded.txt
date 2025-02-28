@@ -1,0 +1,1 @@
+get solve combination of 3d shape 3x3 to array

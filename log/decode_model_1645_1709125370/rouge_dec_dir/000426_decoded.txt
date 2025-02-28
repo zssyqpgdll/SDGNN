@@ -1,0 +1,1 @@
+set the contents of the directory with the pattern ' *.txt '

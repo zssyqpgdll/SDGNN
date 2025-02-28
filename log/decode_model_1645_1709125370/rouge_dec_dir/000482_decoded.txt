@@ -1,0 +1,1 @@
+encode string ` s ` to a string ' iso-8859-15 '

@@ -1,0 +1,1 @@
+encode ` Decimal('3.9') ` to a json string

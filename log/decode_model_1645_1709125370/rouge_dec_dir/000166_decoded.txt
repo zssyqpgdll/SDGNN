@@ -1,0 +1,1 @@
+get a list of value ' x ' from list of dictionaries ` d `

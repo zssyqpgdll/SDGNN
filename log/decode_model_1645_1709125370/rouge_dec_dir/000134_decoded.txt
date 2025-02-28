@@ -1,0 +1,1 @@
+create a django model ` MyModel ` with timestamp to its month

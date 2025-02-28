@@ -1,0 +1,1 @@
+python regex - check for a capital letter with a following lowercase in string ` string `

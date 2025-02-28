@@ -1,0 +1,1 @@
+write the data of dataframe ` df ` into text file ` np.txt `

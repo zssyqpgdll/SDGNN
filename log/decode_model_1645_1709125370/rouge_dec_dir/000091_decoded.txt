@@ -1,0 +1,1 @@
+replace 20 symbols in string ` text ` with keyword character ' text '

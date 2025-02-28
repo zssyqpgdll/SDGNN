@@ -1,0 +1,1 @@
+run flask application ` app ` in debug mode .

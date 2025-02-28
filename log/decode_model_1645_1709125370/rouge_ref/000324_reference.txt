@@ -1,0 +1,1 @@
+convert list ` [('Name', 'Joe'), ('Age', 22)] ` into a dictionary

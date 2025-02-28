@@ -1,0 +1,1 @@
+eliminate all strings from list ` lst `

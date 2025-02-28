@@ -1,0 +1,1 @@
+check if a pandas dataframe ` df ` 's index is sorted

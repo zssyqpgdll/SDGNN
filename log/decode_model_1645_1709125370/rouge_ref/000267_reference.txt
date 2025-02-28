@@ -1,0 +1,1 @@
+extract brackets from string ` s `

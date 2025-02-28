@@ -1,0 +1,1 @@
+get the characters count in a file ` filepath `

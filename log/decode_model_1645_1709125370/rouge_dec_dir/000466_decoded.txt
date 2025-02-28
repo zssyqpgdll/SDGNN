@@ -1,0 +1,1 @@
+filter model ` Entry ` to date equal to ` 08:00 `

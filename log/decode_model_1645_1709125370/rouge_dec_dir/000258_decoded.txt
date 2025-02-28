@@ -1,0 +1,1 @@
+get all value of image ` image ` in image ` image `

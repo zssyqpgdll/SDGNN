@@ -1,0 +1,1 @@
+kill current directory with directory ` ABC `

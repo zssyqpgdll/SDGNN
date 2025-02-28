@@ -1,0 +1,1 @@
+get the integer location of a key ` bob ` in a pandas data frame

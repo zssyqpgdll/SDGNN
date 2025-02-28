@@ -1,0 +1,1 @@
+find the string of regex pattern ` (.*?)(?:\[.*?\]|$) ` in string ` myString `

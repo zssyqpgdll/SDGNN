@@ -1,0 +1,1 @@
+convert a dictionary ` to_reverse ` into a list of strings

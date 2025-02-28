@@ -1,0 +1,1 @@
+django set default value of field ` b ` equal to ' 0000000 '

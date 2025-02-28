@@ -1,0 +1,1 @@
+insert ` _suff ` before the file extension in ` long.file.name.jpg ` or replace ` _a ` with ` suff ` if it precedes the extension .

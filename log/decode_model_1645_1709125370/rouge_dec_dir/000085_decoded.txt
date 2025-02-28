@@ -1,0 +1,1 @@
+remove newline in string ' ({0.goals} goals, ${0.penalties}) ' with message ' resultType '

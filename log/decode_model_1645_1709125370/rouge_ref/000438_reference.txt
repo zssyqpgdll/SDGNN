@@ -1,0 +1,1 @@
+calculate the mean of each element in array ` x ` with the element previous to it

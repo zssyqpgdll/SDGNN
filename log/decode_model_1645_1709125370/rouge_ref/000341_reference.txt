@@ -1,0 +1,1 @@
+initialize ` SECRET_KEY ` in flask config with ` Your_secret_string `

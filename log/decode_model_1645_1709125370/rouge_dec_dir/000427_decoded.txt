@@ -1,0 +1,1 @@
+find all the contents of a file ' .txt ' in python

@@ -1,0 +1,1 @@
+replace dot characters ' . ' associated with ascii letters in list ` s ` with space '  '

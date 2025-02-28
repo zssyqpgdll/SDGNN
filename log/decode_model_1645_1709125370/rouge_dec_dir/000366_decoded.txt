@@ -1,0 +1,1 @@
+plot for dataframe ` df ` in dataframe ` df ` with column ' b ' , column ' b ' , column ' b ' , column ' r '

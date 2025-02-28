@@ -1,0 +1,1 @@
+get the type of variable ` variable_name `

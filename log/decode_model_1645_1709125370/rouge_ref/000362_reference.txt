@@ -1,0 +1,1 @@
+extract attributes ' src="js/([^"]*\bjquery\b[^"]*)" ' from string ` data `

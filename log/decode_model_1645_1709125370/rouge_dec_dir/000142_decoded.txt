@@ -1,0 +1,1 @@
+select the row of the column ' Bool ' in pandas dataframe ` df `

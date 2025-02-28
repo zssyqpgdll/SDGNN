@@ -1,0 +1,1 @@
+remove directory tree ' /folder_name '

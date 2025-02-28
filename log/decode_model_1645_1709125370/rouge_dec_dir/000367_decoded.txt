@@ -1,0 +1,1 @@
+find all characters of a string ' ([a-f ' and ' data ' .

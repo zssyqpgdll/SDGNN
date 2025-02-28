@@ -1,0 +1,1 @@
+print each string in list ` l ` into a string

@@ -1,0 +1,1 @@
+add csv dataframe ` df ` by column ' c:\data\pandas.txt ' in array

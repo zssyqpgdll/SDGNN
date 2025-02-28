@@ -1,0 +1,1 @@
+convert series ` df ` with space ' text ' in a string ` df `

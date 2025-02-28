@@ -1,0 +1,1 @@
+get json data from restful service ' url '

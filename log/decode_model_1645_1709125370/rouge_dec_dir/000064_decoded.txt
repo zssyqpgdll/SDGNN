@@ -1,0 +1,1 @@
+get duplicate items from list ` [a, ` and ` menuitem `

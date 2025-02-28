@@ -1,0 +1,1 @@
+call a base class 's class method ` do ` from derived class ` Derived `

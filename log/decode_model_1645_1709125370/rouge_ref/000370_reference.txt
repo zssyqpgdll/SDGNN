@@ -1,0 +1,1 @@
+getting the length of array ` s `

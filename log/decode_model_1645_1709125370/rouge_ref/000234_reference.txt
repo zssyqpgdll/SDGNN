@@ -1,0 +1,1 @@
+find all words in a string ` mystring ` that start with the ` $ ` sign

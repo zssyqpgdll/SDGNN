@@ -1,0 +1,1 @@
+writing value of string ` line1 ` to file ' %r[LINE]%r[LINE]%r[LINE] '

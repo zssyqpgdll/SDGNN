@@ -1,0 +1,1 @@
+create a new column ` weekday ` in pandas data frame ` data ` based on the values in column ` my_dt `

@@ -1,0 +1,1 @@
+clicking a link using selenium using selenium object ` Send ` with selenium

@@ -1,0 +1,1 @@
+split a string " a [LINE] b [LINE] c " on a string formatting

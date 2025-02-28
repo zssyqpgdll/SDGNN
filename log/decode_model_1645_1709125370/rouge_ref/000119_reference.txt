@@ -1,0 +1,1 @@
+create new matrix object by concatenating data from matrix a and matrix b

@@ -1,0 +1,1 @@
+sort a list of dictionaries ` a_list ` by value ' name ' in list ` name `

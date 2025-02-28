@@ -1,0 +1,9 @@
+{
+    "stmt": 1,
+    "agg_op": 2,
+    "column_name": 3,
+    "cond_expr": 4,
+    "cmp_op": 5,
+    "subname": 6,
+    "string": 7
+}

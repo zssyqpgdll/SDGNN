@@ -1,0 +1,1 @@
+insert a ' None ' value into a sqlite3 table .

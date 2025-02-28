@@ -1,0 +1,1 @@
+concatenate items of list ` l ` with a space '  '

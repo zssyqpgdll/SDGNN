@@ -1,0 +1,1 @@
+select loc rows in pandas dataframe ` df ` to loc column

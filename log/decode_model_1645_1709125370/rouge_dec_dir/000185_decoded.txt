@@ -1,0 +1,1 @@
+split string ' Docs/src/Scripts/temp ' on new string ' / '

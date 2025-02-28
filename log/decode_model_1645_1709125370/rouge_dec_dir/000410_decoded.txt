@@ -1,0 +1,1 @@
+print variable ` file_path ` in variable

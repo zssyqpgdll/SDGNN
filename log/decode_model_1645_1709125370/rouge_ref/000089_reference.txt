@@ -1,0 +1,1 @@
+write the elements of list ` lines ` concatenated by special character ' [LINE] ' to file ` myfile `

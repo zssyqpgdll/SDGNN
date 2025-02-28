@@ -1,0 +1,1 @@
+convert a pandas series ` sf ` into a pandas dataframe ` df ` with columns ` email ` and ` list `

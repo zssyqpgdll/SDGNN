@@ -1,0 +1,1 @@
+append a tuple of elements from list ` a ` with indexes ' [0][0] [0][2] ' to list ` b `

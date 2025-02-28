@@ -1,0 +1,1 @@
+find the first element of the tuple with the maximum second element in a list of tuples ` lis `

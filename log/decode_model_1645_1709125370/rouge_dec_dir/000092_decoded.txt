@@ -1,0 +1,1 @@
+sum rows in pandas dataframe ` df `

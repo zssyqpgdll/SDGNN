@@ -1,0 +1,1 @@
+create ` list2 ` to contain the lists from list ` list1 ` excluding the empty lists from ` list1 `

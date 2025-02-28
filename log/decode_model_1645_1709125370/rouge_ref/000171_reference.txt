@@ -1,0 +1,1 @@
+replace all occurences of newlines ` [LINE] ` with ` <br> ` in dataframe ` df `

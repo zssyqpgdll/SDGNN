@@ -1,0 +1,1 @@
+sort a list of dictionaries ` list_to_be_sorted ` by the value of the dictionary key ` name `

@@ -1,0 +1,1 @@
+python selenium click on link ' Send Send Mail ' in selenium python

@@ -1,0 +1,1 @@
+enable debug mode on flask application ` app `

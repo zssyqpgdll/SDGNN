@@ -1,0 +1,1 @@
+decode a backslash-escaped string ' \x89[LINE] ' into a string

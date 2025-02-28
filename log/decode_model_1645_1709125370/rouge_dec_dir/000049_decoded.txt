@@ -1,0 +1,1 @@
+print white spaces in string ' lamp, bag, mirror ' in string ' lamp, mirror '

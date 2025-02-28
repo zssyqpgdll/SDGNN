@@ -1,0 +1,1 @@
+find all matches of regex pattern ' ([a-fA-F\d]{32}) ' in string ` data `

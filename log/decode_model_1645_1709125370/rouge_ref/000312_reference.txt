@@ -1,0 +1,1 @@
+get a value of datetime.today ( ) in the utc time zone

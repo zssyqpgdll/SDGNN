@@ -1,0 +1,1 @@
+convert list of lists ` L ` to list of integers

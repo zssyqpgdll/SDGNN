@@ -1,0 +1,1 @@
+create a list of tuples ` A ` and ` B ` to numpy array in list ` B `

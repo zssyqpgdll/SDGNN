@@ -1,0 +1,1 @@
+get the row of the column ' (Hel|Just) ' in dataframe ` df `

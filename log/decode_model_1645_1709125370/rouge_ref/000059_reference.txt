@@ -1,0 +1,1 @@
+how do i get the url parameter in a flask view

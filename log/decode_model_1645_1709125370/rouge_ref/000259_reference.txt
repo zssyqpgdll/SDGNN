@@ -1,0 +1,1 @@
+regex , find " n " s only in the middle of string ` s `

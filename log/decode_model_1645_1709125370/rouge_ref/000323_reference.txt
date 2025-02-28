@@ -1,0 +1,1 @@
+get list of values from dictionary ' mydict ' w.r.t . list of keys ' mykeys '

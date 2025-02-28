@@ -1,0 +1,1 @@
+print a backslash-escaped string ' foo[LINE]bar '

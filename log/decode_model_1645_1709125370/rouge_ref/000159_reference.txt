@@ -1,0 +1,1 @@
+get reverse of list items from list ' b ' using extended slicing

@@ -1,0 +1,1 @@
+fill list of lists ` a ` to a list of tuples

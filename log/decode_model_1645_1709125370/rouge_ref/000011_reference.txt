@@ -1,0 +1,1 @@
+format a datetime string ` when ` to extract date only

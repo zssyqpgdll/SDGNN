@@ -1,0 +1,1 @@
+how to get the day of the first 135 points in python

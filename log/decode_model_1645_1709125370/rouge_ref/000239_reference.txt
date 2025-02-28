@@ -1,0 +1,1 @@
+run r script ' /usr/bin/Rscript --vanilla /pathto/MyrScript.r '

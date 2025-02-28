@@ -1,0 +1,1 @@
+get all values of all column ' Bool ' in pandas column ' Bool ' and ' Col ' of dataframe ` df `

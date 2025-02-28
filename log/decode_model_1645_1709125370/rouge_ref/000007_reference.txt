@@ -1,0 +1,1 @@
+capture final output of a chain of system commands ` ps -ef | grep something | wc -l `

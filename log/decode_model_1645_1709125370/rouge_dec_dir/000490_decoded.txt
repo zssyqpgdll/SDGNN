@@ -1,0 +1,1 @@
+get the index of the element in list ` lst ` is the value is ` next `

@@ -1,0 +1,1 @@
+get the last part of a string before the character ' - '

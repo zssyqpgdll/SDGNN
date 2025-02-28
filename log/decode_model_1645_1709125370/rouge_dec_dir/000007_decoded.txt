@@ -1,0 +1,1 @@
+get the output of subprocess command ' ps -ef | | | wc -l ' with pipe in python

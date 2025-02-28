@@ -1,0 +1,1 @@
+split a multi-line string ` a [LINE] b [LINE] c ` by new line character ` [LINE] `

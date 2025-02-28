@@ -1,0 +1,1 @@
+calling an external external command ' vasp | tee tee output '

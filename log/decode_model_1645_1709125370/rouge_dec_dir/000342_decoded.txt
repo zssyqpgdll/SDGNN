@@ -1,0 +1,1 @@
+create a pandas data frame from pandas dataframe with column ' out-1 ' , ' out-2 ' in dataframe ` out `

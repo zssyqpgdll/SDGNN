@@ -1,0 +1,1 @@
+count the occurrences of item " a " in list ` l `

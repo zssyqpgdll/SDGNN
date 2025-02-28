@@ -1,0 +1,1 @@
+read a list ` yourdictfile ` in a list ` yourdictfile `

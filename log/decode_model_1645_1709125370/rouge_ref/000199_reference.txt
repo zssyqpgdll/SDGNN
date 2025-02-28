@@ -1,0 +1,1 @@
+click a href button having text ` Send InMail ` with selenium

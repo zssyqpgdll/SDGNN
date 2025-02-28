@@ -1,0 +1,1 @@
+join a list of strings ` list ` using a space '  '

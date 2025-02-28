@@ -1,0 +1,1 @@
+get list of indexes of rows where column ' BoolCol ' values match true

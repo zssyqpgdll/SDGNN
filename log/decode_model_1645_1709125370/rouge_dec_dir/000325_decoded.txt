@@ -1,0 +1,1 @@
+convert a numpy array ` data ` to the mean of the first value of the first value

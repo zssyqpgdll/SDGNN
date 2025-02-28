@@ -1,0 +1,1 @@
+replace white spaces in string ' it is icy ' in string ' icy is icy '

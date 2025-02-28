@@ -1,0 +1,1 @@
+remove all special characters , punctuation and spaces from a string ` mystring ` using regex

@@ -1,0 +1,1 @@
+how to get a single result from a sqlite query in python ?

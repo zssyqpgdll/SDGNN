@@ -1,0 +1,1 @@
+split a string ` s ` by space with ` 4 ` splits

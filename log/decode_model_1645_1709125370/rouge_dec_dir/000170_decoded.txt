@@ -1,0 +1,1 @@
+delete the column ' df ' from dataframe ` df ` where the value in column ' closing ' is not than ' price ' is not than ' price ' is not than ' price ' .

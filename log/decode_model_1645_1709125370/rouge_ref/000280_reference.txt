@@ -1,0 +1,1 @@
+convert list of tuples ` L ` to a string

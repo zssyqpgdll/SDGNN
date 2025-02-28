@@ -1,0 +1,1 @@
+modify sys.path for python module ` subdir `

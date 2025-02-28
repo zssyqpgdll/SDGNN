@@ -1,0 +1,1 @@
+remove a div with a id ` main-content ` using beautifulsoup

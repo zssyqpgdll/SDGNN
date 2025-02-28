@@ -1,0 +1,1 @@
+check whether a path of directory ` directory ` exists

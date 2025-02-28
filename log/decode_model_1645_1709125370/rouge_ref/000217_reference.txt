@@ -1,0 +1,1 @@
+select values from column ' A ' for which corresponding values in column ' B ' will be greater than 50 , and in column ' C ' - equal 900 in dataframe ` df `

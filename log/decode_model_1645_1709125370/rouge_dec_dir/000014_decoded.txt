@@ -1,0 +1,1 @@
+convert list ` b ` to a string of strings ' : '

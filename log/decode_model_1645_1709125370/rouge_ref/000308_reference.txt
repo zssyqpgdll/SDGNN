@@ -1,0 +1,1 @@
+add color bar with image ` mappable ` to plot ` plt `

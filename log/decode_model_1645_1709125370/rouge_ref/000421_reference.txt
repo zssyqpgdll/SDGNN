@@ -1,0 +1,1 @@
+get elements from list ` myList ` , that have a field ` n ` value 30

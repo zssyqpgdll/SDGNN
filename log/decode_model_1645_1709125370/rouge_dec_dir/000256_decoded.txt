@@ -1,0 +1,1 @@
+print string " Ð¿ÑÐ¸ " with proper unicode representations

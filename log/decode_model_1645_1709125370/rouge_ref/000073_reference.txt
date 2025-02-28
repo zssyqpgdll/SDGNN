@@ -1,0 +1,1 @@
+create array containing the maximum value of respective elements of array ` [2, 3, 4] ` and array ` [1, 5, 2] `

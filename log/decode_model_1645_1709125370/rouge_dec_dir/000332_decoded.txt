@@ -1,0 +1,1 @@
+check if ` o ` is a string

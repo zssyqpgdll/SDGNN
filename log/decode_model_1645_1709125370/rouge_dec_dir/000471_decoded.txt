@@ -1,0 +1,1 @@
+convert a string ` number ` to integer character

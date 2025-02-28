@@ -1,0 +1,1 @@
+find the index of the element from list ` thelist ` to the value of the value value equal to ' 332 ' .

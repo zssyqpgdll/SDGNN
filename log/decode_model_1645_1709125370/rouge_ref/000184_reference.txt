@@ -1,0 +1,1 @@
+get a list containing the sum of each element ` i ` in list ` l ` plus the previous elements

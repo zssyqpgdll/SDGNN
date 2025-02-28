@@ -1,0 +1,1 @@
+find all numbers and dots from a string ` text ` using regex

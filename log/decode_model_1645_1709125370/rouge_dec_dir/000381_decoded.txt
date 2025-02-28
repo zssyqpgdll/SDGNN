@@ -1,0 +1,1 @@
+get the minimum value in array ` a ` and column ` b `

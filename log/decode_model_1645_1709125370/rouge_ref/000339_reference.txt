@@ -1,0 +1,1 @@
+append items in list ` mylog ` to ` list1 `

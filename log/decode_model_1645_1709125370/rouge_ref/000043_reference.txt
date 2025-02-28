@@ -1,0 +1,1 @@
+convert hex string ' 470FC614 ' to a float number

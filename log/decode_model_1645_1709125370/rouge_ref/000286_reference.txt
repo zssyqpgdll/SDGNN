@@ -1,0 +1,1 @@
+open a file ` yourfile.txt ` in write mode

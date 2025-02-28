@@ -1,0 +1,1 @@
+drop rows of pandas dataframe ` df ` having nan in column at index " 1 "

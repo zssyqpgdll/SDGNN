@@ -1,0 +1,1 @@
+append elements of a set to a list in python

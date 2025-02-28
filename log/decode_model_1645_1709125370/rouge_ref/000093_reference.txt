@@ -1,0 +1,1 @@
+search for string that matches regular expression pattern ' (?<!Distillr)\\AcroTray\.exe ' in string ' C:\SomeDir\AcroTray.exe '

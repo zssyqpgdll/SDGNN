@@ -1,0 +1,1 @@
+create a list of tuples ` word ` containing the tuple in list ` word `

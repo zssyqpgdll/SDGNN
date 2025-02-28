@@ -1,0 +1,1 @@
+generate all 2-element subsets of tuple ` (1, 2, 3) `

@@ -1,0 +1,1 @@
+convert datetime column ' date ' of pandas dataframe ' df ' to ordinal

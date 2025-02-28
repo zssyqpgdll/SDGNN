@@ -1,0 +1,1 @@
+delete the key with value ' ele ' of a key ` d `

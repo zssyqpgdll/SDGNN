@@ -1,0 +1,1 @@
+convert a hex-string representation to actual bytes

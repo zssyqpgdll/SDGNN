@@ -1,0 +1,1 @@
+open a file ` path/to/FILE_NAME.ext ` in write mode

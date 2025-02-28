@@ -1,0 +1,1 @@
+count the count of string ` a ` in list ` l `

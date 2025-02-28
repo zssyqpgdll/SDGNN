@@ -1,0 +1,1 @@
+sort list ` list_of_strings ` based on second index of each string ` s `

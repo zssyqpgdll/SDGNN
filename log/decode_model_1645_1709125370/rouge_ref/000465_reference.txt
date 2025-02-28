@@ -1,0 +1,1 @@
+remove all strings from a list a strings ` sents ` where the values starts with ` @$	 ` or ` # `

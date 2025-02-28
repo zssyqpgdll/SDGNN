@@ -1,0 +1,1 @@
+calculate sum over all rows of 2d numpy array

@@ -1,0 +1,1 @@
+create multidimensional array ` matrix ` with 3 rows and 2 columns in python

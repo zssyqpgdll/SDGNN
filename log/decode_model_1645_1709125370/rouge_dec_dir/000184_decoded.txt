@@ -1,0 +1,1 @@
+get the number of elements in list ` l `

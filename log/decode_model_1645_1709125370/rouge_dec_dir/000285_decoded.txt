@@ -1,0 +1,1 @@
+remove the index of the indices in list ` oldlist ` from a list ` removelist `

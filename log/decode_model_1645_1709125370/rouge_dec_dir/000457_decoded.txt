@@ -1,0 +1,1 @@
+sorting a list of dictionaries ` newlist ` by value ' name ' in ascending order

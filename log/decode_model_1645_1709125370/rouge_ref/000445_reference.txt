@@ -1,0 +1,1 @@
+how to create a list of date string in ' yyyymmdd ' format with python pandas ?

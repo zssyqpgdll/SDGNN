@@ -1,0 +1,1 @@
+print unicode string ' Ð¿ÑÐ¸ ' with utf-8

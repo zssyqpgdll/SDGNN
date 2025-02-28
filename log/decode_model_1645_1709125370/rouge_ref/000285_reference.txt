@@ -1,0 +1,1 @@
+remove elements from list ` oldlist ` that have an index number mentioned in list ` removelist `

@@ -1,0 +1,1 @@
+remove the index of the last index in dataframe ` df `

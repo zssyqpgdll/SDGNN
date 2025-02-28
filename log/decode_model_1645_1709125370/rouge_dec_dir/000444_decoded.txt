@@ -1,0 +1,1 @@
+find all digits characters in a string ' TOK:<MY_TOKEN> '

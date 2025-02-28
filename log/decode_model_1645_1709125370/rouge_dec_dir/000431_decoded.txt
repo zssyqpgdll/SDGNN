@@ -1,0 +1,1 @@
+get all combination of tuples ` i ` in ascending order

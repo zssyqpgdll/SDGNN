@@ -1,0 +1,1 @@
+create list of columns column ' sat ' in dataframe ` df ` using ' day '
