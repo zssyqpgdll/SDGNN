@@ -4,6 +4,22 @@
 
 This repository contains the implementation of the Structure-aware Dual Graph Neural Network (SDGNN), as described in our paper: **SDGNN: Structure-aware Dual Graph Neural Network for Code Summarization**.
 
+
+## Environment Setup
+This project provides two files for environment installation: `environment.yml` and `requirements.txt`. You can choose either method to set up your environment:
+
+- **Using Conda:**  
+  Create the environment by running:
+  ```bash
+  conda env create -f environment.yml
+  ```
+- **Using Pip:**
+  Install the required packages by running:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+
 ## Data Preparation
 The default dataset is Conala, with data stored in the `data/` folder. For WikiSQL and ATIS datasets:
 - Place WikiSQL data in `wikisql/` folder
